@@ -1,0 +1,22 @@
+brand,benefit,route,drug_class,tumour_area,manufacturer,molecule_type,fda_approval_year,ira_price_year,ira_selected
+Keytruda,Part B,Infused,PD-1/PD-L1 inhibitor,Multi-tumour (immunotherapy),Merck,Biologic,2014,,No
+Opdivo,Part B,Infused,PD-1/PD-L1 inhibitor,Multi-tumour (immunotherapy),Bristol Myers Squibb,Biologic,2014,,No
+Yervoy,Part B,Infused,CTLA-4 inhibitor,Multi-tumour (immunotherapy),Bristol Myers Squibb,Biologic,2011,,No
+Tecentriq,Part B,Infused,PD-1/PD-L1 inhibitor,Lung,Genentech (Roche),Biologic,2016,,No
+Imfinzi,Part B,Infused,PD-1/PD-L1 inhibitor,Lung,AstraZeneca,Biologic,2017,,No
+Darzalex,Part B,Infused,Anti-CD38 antibody,Multiple myeloma,Janssen,Biologic,2015,,No
+Kyprolis,Part B,Infused,Proteasome inhibitor,Multiple myeloma,Amgen,Small molecule,2012,,No
+Enhertu,Part B,Infused,Antibody-drug conjugate,Breast,Daiichi Sankyo / AstraZeneca,Biologic,2019,,No
+Padcev,Part B,Infused,Antibody-drug conjugate,Bladder,Astellas / Pfizer,Biologic,2019,,No
+Imbruvica,Part D,Oral,BTK inhibitor,CLL / lymphoma,AbbVie / Janssen,Small molecule,2013,2026,Yes
+Calquence,Part D,Oral,BTK inhibitor,CLL / lymphoma,AstraZeneca,Small molecule,2017,2027,Yes
+Venclexta,Part D,Oral,BCL-2 inhibitor,CLL / lymphoma,AbbVie / Genentech,Small molecule,2016,,No
+Ibrance,Part D,Oral,CDK4/6 inhibitor,Breast,Pfizer,Small molecule,2015,2027,Yes
+Kisqali,Part D,Oral,CDK4/6 inhibitor,Breast,Novartis,Small molecule,2017,2028,Yes
+Verzenio,Part D,Oral,CDK4/6 inhibitor,Breast,Eli Lilly,Small molecule,2017,2028,Yes
+Xtandi,Part D,Oral,Androgen receptor inhibitor,Prostate,Astellas / Pfizer,Small molecule,2012,2027,Yes
+Erleada,Part D,Oral,Androgen receptor inhibitor,Prostate,Janssen,Small molecule,2018,2028,Yes
+Pomalyst,Part D,Oral,Immunomodulator,Multiple myeloma,Bristol Myers Squibb,Small molecule,2013,2027,Yes
+Tagrisso,Part D,Oral,EGFR inhibitor,Lung,AstraZeneca,Small molecule,2015,,No
+Lynparza,Part D,Oral,PARP inhibitor,Ovarian / breast / prostate,AstraZeneca / Merck,Small molecule,2014,,No
+Lenvima,Part D,Oral,Multi-kinase inhibitor,Thyroid / kidney / liver,Eisai,Small molecule,2015,2028,Yes
