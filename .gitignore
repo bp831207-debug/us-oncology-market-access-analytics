@@ -1,0 +1,17 @@
+# Raw CMS downloads are large - see README for links
+data/raw/*.csv
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Office / Power BI temp files
+~$*
+*.pbix.bak
+.DS_Store
+Thumbs.db
+
+# DuckDB database file (rebuilt by the SQL scripts)
+*.duckdb
+*.duckdb.wal
