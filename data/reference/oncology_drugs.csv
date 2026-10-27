@@ -1,0 +1,22 @@
+brand,generic_keyword,generic_name,benefit,drug_class,tumour_area,manufacturer,molecule_type,fda_approval_year,ira_price_year
+Keytruda,pembrolizumab,pembrolizumab,Part B,PD-1/PD-L1 inhibitor,Multi-tumour (immunotherapy),Merck,Biologic,2014,
+Opdivo,nivolumab,nivolumab,Part B,PD-1/PD-L1 inhibitor,Multi-tumour (immunotherapy),Bristol Myers Squibb,Biologic,2014,
+Yervoy,ipilimumab,ipilimumab,Part B,CTLA-4 inhibitor,Multi-tumour (immunotherapy),Bristol Myers Squibb,Biologic,2011,
+Tecentriq,atezolizumab,atezolizumab,Part B,PD-1/PD-L1 inhibitor,Lung,Genentech (Roche),Biologic,2016,
+Imfinzi,durvalumab,durvalumab,Part B,PD-1/PD-L1 inhibitor,Lung,AstraZeneca,Biologic,2017,
+Darzalex,daratumumab,daratumumab,Part B,Anti-CD38 antibody,Multiple myeloma,Janssen,Biologic,2015,
+Kyprolis,carfilzomib,carfilzomib,Part B,Proteasome inhibitor,Multiple myeloma,Amgen,Small molecule,2012,
+Enhertu,deruxtecan,fam-trastuzumab deruxtecan,Part B,Antibody-drug conjugate,Breast,Daiichi Sankyo / AstraZeneca,Biologic,2019,
+Padcev,enfortumab,enfortumab vedotin,Part B,Antibody-drug conjugate,Bladder,Astellas / Pfizer,Biologic,2019,
+Imbruvica,ibrutinib,ibrutinib,Part D,BTK inhibitor,CLL / lymphoma,AbbVie / Janssen,Small molecule,2013,2026
+Calquence,acalabrutinib,acalabrutinib,Part D,BTK inhibitor,CLL / lymphoma,AstraZeneca,Small molecule,2017,2027
+Venclexta,venetoclax,venetoclax,Part D,BCL-2 inhibitor,CLL / lymphoma,AbbVie / Genentech,Small molecule,2016,
+Ibrance,palbociclib,palbociclib,Part D,CDK4/6 inhibitor,Breast,Pfizer,Small molecule,2015,2027
+Kisqali,ribociclib,ribociclib,Part D,CDK4/6 inhibitor,Breast,Novartis,Small molecule,2017,2028
+Verzenio,abemaciclib,abemaciclib,Part D,CDK4/6 inhibitor,Breast,Eli Lilly,Small molecule,2017,2028
+Xtandi,enzalutamide,enzalutamide,Part D,Androgen receptor inhibitor,Prostate,Astellas / Pfizer,Small molecule,2012,2027
+Erleada,apalutamide,apalutamide,Part D,Androgen receptor inhibitor,Prostate,Janssen,Small molecule,2018,2028
+Pomalyst,pomalidomide,pomalidomide,Part D,Immunomodulator,Multiple myeloma,Bristol Myers Squibb,Small molecule,2013,2027
+Tagrisso,osimertinib,osimertinib,Part D,EGFR inhibitor,Lung,AstraZeneca,Small molecule,2015,
+Lynparza,olaparib,olaparib,Part D,PARP inhibitor,Ovarian / breast / prostate,AstraZeneca / Merck,Small molecule,2014,
+Lenvima,lenvatinib,lenvatinib,Part D,Multi-kinase inhibitor,Thyroid / kidney / liver,Eisai,Small molecule,2015,2028
